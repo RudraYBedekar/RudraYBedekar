@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👋 About Me:
 
 Hi, I'm **Rudra Bedekar**
@@ -93,10 +94,6 @@ Developed a real-time fleet analytics platform using **Python, FastAPI, Kafka, P
 
 ---
 
-# 📈 Contribution Graph:
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=RudraYBedekar&theme=github-compact)
-
 ---
 
 # 🏆 Certifications:
@@ -117,3 +114,21 @@ Developed a real-time fleet analytics platform using **Python, FastAPI, Kafka, P
 - Cloud-native AWS deployments  
 - BI dashboards and KPI reporting  
 - Machine learning model evaluation and forecasting  
+=======
+## Hi there 👋
+
+<!--
+**RudraYBedekar/RudraYBedekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> d19157c48ed2bcf1f3996f7a05b0c5a66a0d4fc7
