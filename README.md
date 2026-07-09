@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 👋 About Me:
 
 Hi, I'm **Rudra Bedekar**
@@ -131,4 +131,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->>>>>>> d19157c48ed2bcf1f3996f7a05b0c5a66a0d4fc7
+
